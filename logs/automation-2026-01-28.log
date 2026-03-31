@@ -1,0 +1,29 @@
+17:04:04.579 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:04:04.813 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:04.813 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:04:05.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:05.063 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:04:05.203 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:05.203 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:04:05.515 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:05.515 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:04:05.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:05.734 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:04:05.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:05.983 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:04:06.202 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:04:06.235 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection.parseRelationshipsPart(PackageRelationshipCollection.java:307)oggger - Parsing relationship: /_rels/.rels
+17:04:06.833 [main] INFO  TestCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:14)oggger - ****Starting TC003_LoginDDT****
+17:04:20.123 [main] INFO  TestCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:57)oggger - ****Finished TC003_LoginDDT****
+17:04:20.138 [main] INFO  TestCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:14)oggger - ****Starting TC003_LoginDDT****
+17:04:39.667 [main] INFO  TestCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:57)oggger - ****Finished TC003_LoginDDT****
+17:04:39.667 [main] INFO  TestCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:14)oggger - ****Starting TC003_LoginDDT****
+17:04:58.586 [main] INFO  TestCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:57)oggger - ****Finished TC003_LoginDDT****
+17:04:58.586 [main] INFO  TestCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:14)oggger - ****Starting TC003_LoginDDT****
+17:05:17.534 [main] INFO  TestCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:57)oggger - ****Finished TC003_LoginDDT****
+17:05:17.549 [main] INFO  TestCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:14)oggger - ****Starting TC003_LoginDDT****
+17:43:37.332 [main] INFO  TestCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:14)oggger - ****Starting T001_AccountRegistrationTest****
+17:43:37.788 [main] INFO  TestCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:20)oggger - Clicked on My Account Link
+17:43:39.982 [main] INFO  TestCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:24)oggger - Clicked On Registration Link
+17:43:39.991 [main] INFO  TestCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:28)oggger - Providing customer Details...
+17:43:46.068 [main] INFO  TestCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:41)oggger - Validating Expected Message...
